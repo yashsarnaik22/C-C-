@@ -1,0 +1,30 @@
+These are all Data Structures code written in CPP by me.
+In each file name PL(num), 'num' refers to the number of problem statement as follows:
+
+1.Design and implement a program to read, display, insert, update and delete operations on data objects for customer information supply chain management system using array.
+
+2.Design and implement a program for sparse matrix operations of addition, multiplication and transpose of sparse matrix for climate prediction data stored in 2D array.
+
+3.Design and develop program for insertion, up-dating, searching, sorting, listing and deletion operations using singly linked list for placement information system.
+
+4.Design and develop program for polynomial addition, multiplication operations for disease information using circular linked list.
+
+5.Design and implement a program for sorting two given lists and merging these two sorted lists of marks scored for technical skill examination of recruitment cell using doubly linked list.
+
+6.Design and implement a menu driven program for expression conversion from infix to postfix, postfix to prefix expression and evaluation of postfix expression using stack.
+
+8.Design and implement a menu driven program for linear and circular queue for food ordering using array and linked list.
+
+9.Design and implement a program for double ended queue and its operations for a shopping mall.
+
+10.Design and implement a menu driven program for implementing insertion sort and quick sort for population of a town.
+
+11.Design and implement a menu driven program for implementing Fibonacci, binary and sentinel searching for students marks scored in an examination.
+
+12.Design and implement a program for survey information of sports using principle of inclusion and exclusion.
+
+13.Design and implement a program for generating all possible combinations of given string using recursion.
+
+14.Design and develop a program using linear recurrence relations for various loan schemes of a bank.
+
+15. Design and implement program for parity checker of ASCII equivalence of given word.
